@@ -115,13 +115,4 @@ ros2 run head_detector head_detector_node \
 
 Contributions are welcome—please open an issue to discuss large changes first.
 
----
 
-## 📝 License
-
-BSD 3-Clause. See [`LICENSE`](LICENSE) for full text.
-
-```
-
-Save this as `README.md` in your repository root, commit, and push.
-```
