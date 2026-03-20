@@ -111,7 +111,7 @@ ros2 run head_detector head_detector_node \
 | Name                             | Contact                                                       |
 | -------------------------------- | ------------------------------------------------------------- |
 | **Andres A. Castro Peñaranda**   | [andres.castro@upc.edu](mailto:andres.castro@upc.edu)         |
-| **Mohammad Alikhani Najafabadi** | [mohammad.alikhani@upc.edu](mailto:mohammad.alikhani@upc.edu) |
+| **Marco Alikhani** | [mohammad.alikhani@upc.edu](mailto:Marco.alikhani@upc.edu) |
 
 Contributions are welcome—please open an issue to discuss large changes first.
 
